@@ -3,10 +3,10 @@ A ML model to predict your chances of getting admitted to university based on va
 
 The ML model is hosted on streamlit and can be used using the link given below
 
-https://melvinjjoseph-graduate-admission-predictor-app-ol1zv6.streamlit.app/
+[Link to view app on streamlit](https://melvinjjoseph-graduate-admission-predictor-app-ol1zv6.streamlit.app/)
 
-Dataset source-https://www.kaggle.com/datasets/mohansacharya/graduate-admissions
-The dataset contains several parameters which are considered important during the application for Masters Programs.
+[Dataset source](https://www.kaggle.com/datasets/mohansacharya/graduate-admissions)
+. The dataset contains several parameters which are considered important during the application for Masters Programs.
 The parameters included are :
 
     GRE Scores ( out of 340 )
